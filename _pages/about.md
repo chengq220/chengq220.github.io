@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='https://www.vanderbilt.edu/'>Vanderbilt University</a>
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: chengq.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>516 58TH ST</p>
+    <p>Brooklyn, New York</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My  interests lie in the fields of computer science and artificial intelligence, with a particular focus on computer vision, machine learning, and their interdisciplinary applications. I am captivated by the transformative potential of AI to interpret and interact with the physical world, from developing intelligent systems that perceive environments visually to crafting algorithms capable of learning from complex, unstructured data. My work in computer vision, such as enhancing emotion classification models through the use of facial perturbations, highlights my passion for creating deep learning systems that combine theoretical innovation with practical impact.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Looking ahead, I am eager to contribute to cutting-edge advancements in AI research, especially in bridging the gap between perception and decision-making systems. I am deeply interested in addressing challenges such as improving the robustness and fairness of AI models, designing intelligent systems tailored for human-centric applications, and leveraging simulation to tackle data scarcity. My ultimate goal is to develop AI technologies that are not only precise and reliable but also interpretable and adaptable, with applications across diverse fields like healthcare, robotics, and education.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I have a range of interests that keep me grounded and energized. I enjoy playing video games, particularly gacha games, and am a passionate badminton player. Whenever I have free time, you can often find me on the badminton court, enjoying the competition and camaraderie. I’m always excited to meet new people who share my enthusiasm for games or sports. Whether you’re interested in discussing my research, joining me for a game, or hitting the court for a badminton match, feel free to reach out — I’d love to connect!
+
