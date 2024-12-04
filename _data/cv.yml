@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Cheng Qiu
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st June 2002
     - name: Languages
-      value: English, German
+      value: Chinese, English, Japanese
 
 - title: Education
   type: time_table
