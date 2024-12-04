@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Emotion Detection
+description: Research project on emotion detection using deep learning techniques
+img: assets/img/project_emotion.jpg
+importance: 4
+category: research
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

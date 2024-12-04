@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Medical Segmentation - U-NET
+description: Research project on medical segmenetation using U-Net
+img: assets/img/project_medical.jpg
+# redirect: https://unsplash.com redirects user when press on the project
 importance: 3
-category: work
+category: research
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
